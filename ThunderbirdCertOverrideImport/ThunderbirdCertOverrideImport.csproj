@@ -7,8 +7,8 @@
     <ProjectGuid>{588E835A-0CED-4F9E-81FA-E2589B6104C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ThunderbirdCertImport</RootNamespace>
-    <AssemblyName>ThunderbirdCertImport</AssemblyName>
+    <RootNamespace>ThunderbirdCertOverrideImport</RootNamespace>
+    <AssemblyName>ThunderbirdCertOverrideImport</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
